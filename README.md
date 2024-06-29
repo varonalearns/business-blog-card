@@ -1,4 +1,4 @@
-# Minimal Blog Card
+# Dev Challenges - Business Blog Card
 This practice project is my solution to a [Dev Challenges](https://devchallenges.io/) challenge.
 
 ## The Overview
