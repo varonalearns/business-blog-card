@@ -10,8 +10,8 @@ The end goal is to create a simple business blog card.
 ![](./assets/screenshot.png)
 
 ### Links
-- Solution URL: [GitHub Repo]()
-- Live Site URL: [Demo]()
+- Solution URL: [GitHub Repo](https://github.com/varonalearns/business-blog-card)
+- Live Site URL: [Demo](https://varonalearns.github.io/business-blog-card/)
 
 ## My Process
 
